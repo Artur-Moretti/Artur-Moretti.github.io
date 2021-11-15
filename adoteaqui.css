@@ -18,6 +18,7 @@ body{
 	
 }
 
+
 .adote{
 	
 	margin-left: 30px;
@@ -82,12 +83,15 @@ footer{
 @media(max-width: 700px) {
 
      .cabeçalho{
-		background: linear-gradient(to right, greenyellow, yellow);
+		background:rgb(20, 81, 250);
 		 justify-content: center;
 	 }
+     
+	.itens{
+		background:rgb(20, 81, 250);
+	}
 
     .principal{
-		
 		display: none;
 	}
 	
